@@ -1,8 +1,6 @@
 # Al iniciar:
 
-npm i
-
-## Descargará todos lo necesario para utilizar
-
+npm install
 
 # Visualizar en:
+https://oscarascencio1301.github.io/Buscador-de-Gifs/
