@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas al componente Item Realizando una snapshot 1`] = `
+<div
+  className="item"
+>
+  <img
+    alt="Imagenes de Prueba en Jest"
+    src="htpps://pruebaJest.com"
+  />
+  <div
+    className="texto"
+  >
+    <p>
+      Imagenes de Prueba en Jest
+    </p>
+  </div>
+</div>
+`;

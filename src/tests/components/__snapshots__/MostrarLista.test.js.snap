@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas al componente MostrarLista Realizando un snapshot 1`] = `
+<div>
+  <h3
+    className="sub"
+  >
+    Cargando...
+  </h3>
+  <h3
+    className="titulo"
+  />
+  <ol
+    className="grid"
+  />
+</div>
+`;
+
+exports[`Pruebas al componente MostrarLista Realizando un snapshot 2`] = `
+<div>
+  <h3
+    className="sub"
+  >
+    Cargando...
+  </h3>
+  <h3
+    className="titulo"
+  >
+    Batman
+    goku
+  </h3>
+  <ol
+    className="grid"
+  />
+</div>
+`;
